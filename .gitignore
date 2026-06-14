@@ -10,3 +10,6 @@ __pycache__/
 # Ficheiros de sistema operativo (caso aplique)
 .DS_Store
 Thumbs.db
+README copy.md
+mosquitto/data/mosquitto.db
+mosquitto/log/mosquitto.log
